@@ -1,0 +1,24 @@
+Agenda.Agenda1, Agenda;md50f9c0de012f96181905ff96a728d3c20.Agenda1
+Agenda.Agenda1, Agenda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50f9c0de012f96181905ff96a728d3c20.Agenda1
+Agenda.Agenda1;md50f9c0de012f96181905ff96a728d3c20.Agenda1
+agenda.Agenda1;md50f9c0de012f96181905ff96a728d3c20.Agenda1
+Agenda.AgendaAdapter, Agenda;md50f9c0de012f96181905ff96a728d3c20.AgendaAdapter
+Agenda.AgendaAdapter, Agenda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50f9c0de012f96181905ff96a728d3c20.AgendaAdapter
+Agenda.AgendaAdapter;md50f9c0de012f96181905ff96a728d3c20.AgendaAdapter
+agenda.AgendaAdapter;md50f9c0de012f96181905ff96a728d3c20.AgendaAdapter
+Agenda.Home, Agenda;md50f9c0de012f96181905ff96a728d3c20.Home
+Agenda.Home, Agenda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50f9c0de012f96181905ff96a728d3c20.Home
+Agenda.Home;md50f9c0de012f96181905ff96a728d3c20.Home
+agenda.Home;md50f9c0de012f96181905ff96a728d3c20.Home
+Agenda.Item1, Agenda;md50f9c0de012f96181905ff96a728d3c20.Item1
+Agenda.Item1, Agenda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50f9c0de012f96181905ff96a728d3c20.Item1
+Agenda.Item1;md50f9c0de012f96181905ff96a728d3c20.Item1
+agenda.Item1;md50f9c0de012f96181905ff96a728d3c20.Item1
+Agenda.HomeAdapter, Agenda;md50f9c0de012f96181905ff96a728d3c20.HomeAdapter
+Agenda.HomeAdapter, Agenda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50f9c0de012f96181905ff96a728d3c20.HomeAdapter
+Agenda.HomeAdapter;md50f9c0de012f96181905ff96a728d3c20.HomeAdapter
+agenda.HomeAdapter;md50f9c0de012f96181905ff96a728d3c20.HomeAdapter
+Agenda.MainActivity, Agenda;md50f9c0de012f96181905ff96a728d3c20.MainActivity
+Agenda.MainActivity, Agenda, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50f9c0de012f96181905ff96a728d3c20.MainActivity
+Agenda.MainActivity;md50f9c0de012f96181905ff96a728d3c20.MainActivity
+agenda.MainActivity;md50f9c0de012f96181905ff96a728d3c20.MainActivity
